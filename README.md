@@ -1,6 +1,7 @@
+
 <div align="center">
 
-# 👋 ¡Hola! Soy Manuel Esteban González Abril
+# 👋 ¡Hola! Soy Manuel Esteban Gonzalez Abril
 ### **Software Developer & Creative Web Solutions**
 📍 Bucaramanga, Santander, Colombia
 
@@ -63,4 +64,3 @@ Desarrollo e implementación de esquemas de datos optimizados para entornos de a
 *Si tienes un proyecto en mente, una propuesta o simplemente quieres hablar de código, mi bandeja de entrada y mis redes están abiertas.*
 
 </div>
-
